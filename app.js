@@ -21,7 +21,7 @@ function generarNumeroSecreto(){
             }
 
     }
-
+}
   
 
 function condicionesIniciales() {
